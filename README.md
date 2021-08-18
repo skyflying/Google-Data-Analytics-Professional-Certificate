@@ -8,9 +8,11 @@
 * [ ] Share Data Through the Art of Visualization
 * [ ] Data Analysis with R Programming
 * [ ] Google Data Analytics Capstone: Complete a Case Study
-  
-     
-       
+ 
+ <br>  
+ <br>    
+ <br>
+ 
 Update 2021/8/18
-   
+ <br>  
    I hope all of the courses would be completed on Sep. 2021
