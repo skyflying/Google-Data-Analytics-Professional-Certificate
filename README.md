@@ -6,7 +6,7 @@
 * [x] Process Data from Dirty to Clean
 * [x] Analyze Data to Answer Questions
 * [x] Share Data Through the Art of Visualization
-* [ ] Data Analysis with R Programming
+* [x] Data Analysis with R Programming
 * [ ] Google Data Analytics Capstone: Complete a Case Study
  
  <br>  
@@ -14,14 +14,16 @@
  <br>
  <br>  
  <br>
-  Update 2021/09/16
- <br>
+ Update 2021/09/16
+<br>
  Data Analysis with R Programming
- <br>
+<br>
+<br>
  Update 2021/09/10
- <br>  
+<br>  
  Share Data Through the Art of Visualization was completed on 10th, Sep.<br> 
-<br> 
+<br>
+<br>
 Update 2021/8/18
  <br>  
-   I hope all of the courses would be completed on Sep. 2021
+I hope all of the courses would be completed on Sep. 2021
