@@ -12,10 +12,16 @@
  <br>  
  <br>    
  <br>
+ <br>  
+ <br>
+  Update 2021/09/16
+ <br>
+ Data Analysis with R Programming
+ <br>
  Update 2021/09/10
  <br>  
-   Share Data Through the Art of Visualization was completed on 10th, Sep.
- <br> 
+ Share Data Through the Art of Visualization was completed on 10th, Sep.<br> 
+<br> 
 Update 2021/8/18
  <br>  
    I hope all of the courses would be completed on Sep. 2021
