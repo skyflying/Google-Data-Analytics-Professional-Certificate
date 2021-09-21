@@ -7,13 +7,17 @@
 * [x] Analyze Data to Answer Questions
 * [x] Share Data Through the Art of Visualization
 * [x] Data Analysis with R Programming
-* [ ] Google Data Analytics Capstone: Complete a Case Study
+* [x] Google Data Analytics Capstone: Complete a Case Study
  
- <br>  
- <br>    
- <br>
- <br>  
- <br>
+<br>  
+<br>    
+<br>
+Update 2021/09/16
+Google Data Analytics Capstone Complete a Case Study was finished and Google Data Analytics was completed on 21th, Sep.<br> 
+<br>  
+<br>
+<br>  
+<br>
  Update 2021/09/16
 <br>
  Data Analysis with R Programming
@@ -21,7 +25,7 @@
 <br>
  Update 2021/09/10
 <br>  
- Share Data Through the Art of Visualization was completed on 10th, Sep.<br> 
+ Share Data Through the Art of Visualization was finished on 10th, Sep.<br> 
 <br>
 <br>
 Update 2021/8/18
