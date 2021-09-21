@@ -12,14 +12,13 @@
 <br>  
 <br>    
 <br>
-Update 2021/09/16
+Update 2021/09/21
 <br>
 Google Data Analytics Capstone Complete a Case Study was finished.
 <br>
-Google Data Analytics was completed on 21th, Sep.<br> 
+Google Data Analytics was completed on 21, Sep.<br> 
 <br>  
-<br>
-<br>  
+  
 <br>
  Update 2021/09/16
 <br>
